@@ -1,0 +1,230 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JSDebugConfig">
+      <project id="vega" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1454522921253" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="eslint-config-react" values="ECMAScript 5.1" collectionTime="1456175128094" />
+      <project id="kent" values="ECMAScript 5.1" collectionTime="1459179359630" />
+      <project id="grafana" values="ECMAScript 5.1" collectionTime="1452264019242" />
+      <project id="environmentFiles" values="ECMAScript 6" collectionTime="1453326228303" />
+      <project id="media-mon-ui" values="ECMAScript 5.1" collectionTime="1453146743093" />
+      <project id="marsellus" values="ECMAScript 5.1" collectionTime="1449866804455" />
+      <project id="prodEnvironmentFiles" values="ECMAScript 5.1" collectionTime="1457380799334" />
+      <project id="policy-entry" values="ECMAScript 6" collectionTime="1459951505004" />
+      <project id="nonProdEnvironmentFiles" values="ECMAScript 5.1" collectionTime="1457380808034" />
+      <project id="scripts" values="ECMAScript 6" collectionTime="1453308978033" />
+      <project id="alan-attack" values="ECMAScript 5.1" collectionTime="1450128468974" />
+      <project id="stu" values="ECMAScript 6" collectionTime="1460489675288" />
+      <project id="buck" values="ECMAScript 6" collectionTime="1461337459520" />
+      <project id="temp" values="ECMAScript 6" collectionTime="1460405698800" />
+      <project id="yoengine" values="ECMAScript 6" collectionTime="1453490803600" />
+      <project id="smithers" values="JSX Harmony" collectionTime="1461268174453" />
+      <project id="vega" values="ECMAScript 5.1" collectionTime="1454522920984" />
+      <project id="adventofcode" values="ECMAScript 6" collectionTime="1450203639675" />
+      <project id="generator-service" values="ECMAScript 5.1" collectionTime="1450795885972" />
+      <project id="fund-view-ui" values="ECMAScript 5.1" collectionTime="1452876640644" />
+      <project id="gimp" values="ECMAScript 6" collectionTime="1456870509871" />
+      <project id="modules" values="ECMAScript 6" collectionTime="1461013813175" />
+      <project id="eslint-config-base" values="ECMAScript 5.1" collectionTime="1454449655048" />
+      <project id="luncher" values="ECMAScript 6" collectionTime="1456870503089" />
+      <project id="paimei" values="ECMAScript 6" collectionTime="1454604625314" />
+      <project id="tarantino" values="ECMAScript 6" collectionTime="1459884180958" />
+      <project id="firewall_proxy" values="ECMAScript 5.1" collectionTime="1453304666433" />
+    </group>
+    <group name="module type">
+      <project id="eslint-config-react" values="WEB_MODULE" collectionTime="1456175128080" />
+      <project id="kent" values="WEB_MODULE" collectionTime="1459179358375" />
+      <project id="grafana" values="WEB_MODULE" collectionTime="1452264018740" />
+      <project id="environmentFiles" values="WEB_MODULE" collectionTime="1453326227784" />
+      <project id="media-mon-ui" values="WEB_MODULE" collectionTime="1453146742468" />
+      <project id="marsellus" values="WEB_MODULE" collectionTime="1449866804454" />
+      <project id="prodEnvironmentFiles" values="WEB_MODULE" collectionTime="1457380798574" />
+      <project id="policy-entry" values="WEB_MODULE" collectionTime="1459951504297" />
+      <project id="nonProdEnvironmentFiles" values="WEB_MODULE" collectionTime="1457380808026" />
+      <project id="scripts" values="WEB_MODULE" collectionTime="1453308978012" />
+      <project id="alan-attack" values="WEB_MODULE" collectionTime="1450128468967" />
+      <project id="stu" values="WEB_MODULE" collectionTime="1460489674718" />
+      <project id="buck" values="WEB_MODULE" collectionTime="1461337458929" />
+      <project id="temp" values="WEB_MODULE" collectionTime="1460405698504" />
+      <project id="yoengine" values="WEB_MODULE" collectionTime="1453490803582" />
+      <project id="smithers" values="WEB_MODULE" collectionTime="1461268172329" />
+      <project id="vega" values="WEB_MODULE" collectionTime="1454522920943" />
+      <project id="adventofcode" values="WEB_MODULE" collectionTime="1450203639015" />
+      <project id="generator-service" values="WEB_MODULE" collectionTime="1450795885396" />
+      <project id="fund-view-ui" values="WEB_MODULE" collectionTime="1452876640185" />
+      <project id="gimp" values="WEB_MODULE" collectionTime="1456870509861" />
+      <project id="modules" values="WEB_MODULE" collectionTime="1461013813171" />
+      <project id="eslint-config-base" values="WEB_MODULE" collectionTime="1454449654367" />
+      <project id="luncher" values="WEB_MODULE" collectionTime="1456870502606" />
+      <project id="paimei" values="WEB_MODULE" collectionTime="1454604625299" />
+      <project id="tarantino" values="WEB_MODULE" collectionTime="1459884180894" />
+      <project id="firewall_proxy" values="WEB_MODULE" collectionTime="1453304666001" />
+    </group>
+    <group name="vcs">
+      <project id="eslint-config-react" values="Git" collectionTime="1456175128080" />
+      <project id="kent" values="Git" collectionTime="1459179358374" />
+      <project id="grafana" values="Git" collectionTime="1452264018739" />
+      <project id="media-mon-ui" values="Git" collectionTime="1453146742468" />
+      <project id="prodEnvironmentFiles" values="Git" collectionTime="1457380798573" />
+      <project id="marsellus" values="Git" collectionTime="1449866804454" />
+      <project id="policy-entry" values="Git" collectionTime="1459951504296" />
+      <project id="nonProdEnvironmentFiles" values="Git" collectionTime="1457380808026" />
+      <project id="luncher" values="Git" collectionTime="1456870502605" />
+      <project id="alan-attack" values="Git" collectionTime="1450128468967" />
+      <project id="tarantino" values="Git" collectionTime="1459884180894" />
+      <project id="buck" values="Git" collectionTime="1461337458928" />
+      <project id="paimei" values="Git" collectionTime="1454604625299" />
+      <project id="smithers" values="Git" collectionTime="1461268172328" />
+      <project id="vega" values="Git" collectionTime="1454522920943" />
+      <project id="stu" values="Git" collectionTime="1460489674717" />
+      <project id="gimp" values="Git" collectionTime="1456870509861" />
+      <project id="modules" values="Git" collectionTime="1461013813171" />
+      <project id="eslint-config-base" values="Git" collectionTime="1454449654366" />
+      <project id="firewall_proxy" values="Git" collectionTime="1453304666001" />
+      <project id="fund-view-ui" values="Git" collectionTime="1452876640185" />
+      <project id="generator-service" values="Git" collectionTime="1450795885395" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="modules" values="mocha-javascript-test-runner" collectionTime="1461013813171" />
+      <project id="marsellus" values="mocha-javascript-test-runner" collectionTime="1449866804454" />
+      <project id="vega" values="JavascriptDebugType,mocha-javascript-test-runner" collectionTime="1454522920943" />
+      <project id="gimp" values="mocha-javascript-test-runner" collectionTime="1456870509861" />
+      <project id="kent" values="mocha-javascript-test-runner,NodeJSConfigurationType" collectionTime="1459179358375" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="gimp" values="mocha-javascript-test-runner" collectionTime="1456870509861" />
+    </group>
+    <group name="file-type">
+      <project id="eslint-config-react" values="XML,PLAIN_TEXT,JSON,JavaScript,UNKNOWN" collectionTime="1456175128093" />
+      <project id="kent" values="UNKNOWN,Images,HTML,JSON,JavaScript,PLAIN_TEXT,YAML,CSS" collectionTime="1459179358433" />
+      <project id="grafana" values="UNKNOWN,JavaScript,Images,JSON,XML,PLAIN_TEXT" collectionTime="1452264018850" />
+      <project id="environmentFiles" values="UNKNOWN,JSON" collectionTime="1453326227932" />
+      <project id="media-mon-ui" values="CSS,ASP,PLAIN_TEXT,UNKNOWN,JSON,C#,JavaScript,XML,HTML,Images" collectionTime="1453146742677" />
+      <project id="marsellus" values="Handlebars/Mustache,YAML,CoffeeScript,UNKNOWN,ESLint,PATCH,HTML,Perl,Images,JavaScript,CSS,SourceMap,XML,C++,JSCS,IDL,JSON,Jade,PLAIN_TEXT" collectionTime="1449866804454" />
+      <project id="prodEnvironmentFiles" values="PLAIN_TEXT,JSON,XML,UNKNOWN,JavaScript" collectionTime="1457380798670" />
+      <project id="policy-entry" values="HTML,JSON,JSX Harmony,PLAIN_TEXT,JavaScript,UNKNOWN,CSS,Jade,Images,SCSS" collectionTime="1459951504376" />
+      <project id="nonProdEnvironmentFiles" values="UNKNOWN,PLAIN_TEXT,JavaScript,JSON,XML" collectionTime="1457380808033" />
+      <project id="scripts" values="UNKNOWN,XML,C++,CSS,Images,JSON,PLAIN_TEXT,JavaScript,HTML,YAML,ARCHIVE,PATCH" collectionTime="1453308978031" />
+      <project id="alan-attack" values="XML,DTD,JSON,JavaScript,UNKNOWN,PLAIN_TEXT,CoffeeScript,HTML,YAML,Images" collectionTime="1450128468972" />
+      <project id="stu" values="HTML,JavaScript,Less,PLAIN_TEXT,JSX Harmony,YAML,Images,Bash,SourceMap,Jade,CSS,Native,UNKNOWN,JSON" collectionTime="1460489674862" />
+      <project id="buck" values="JSON,Jade,ESLint,XML,PLAIN_TEXT,JSX Harmony,IDL,Bash,Native,JavaScript,SourceMap,C++,Handlebars/Mustache,Perl,Less,UNKNOWN,CoffeeScript,Images,YAML,CSS,HTML,PATCH" collectionTime="1461337458984" />
+      <project id="temp" values="JavaScript,JSON" collectionTime="1460405698587" />
+      <project id="yoengine" values="UNKNOWN,JSON,XML,JSX Harmony,JavaScript,PLAIN_TEXT" collectionTime="1453490803599" />
+      <project id="smithers" values="Images,Bash,Less,PLAIN_TEXT,HTML,Jade,JSON,JavaScript,YAML,CSS,JSX Harmony" collectionTime="1461268172385" />
+      <project id="vega" values="UNKNOWN,SourceMap,JavaScript,YAML,JSON,PLAIN_TEXT,CSS,HTML,XML,Images" collectionTime="1454522920983" />
+      <project id="adventofcode" values="JavaScript,PLAIN_TEXT,UNKNOWN,JSON,XML" collectionTime="1450203639068" />
+      <project id="generator-service" values="YAML,XML,Images,UNKNOWN,PLAIN_TEXT,JavaScript,JSON" collectionTime="1450795885501" />
+      <project id="fund-view-ui" values="JSON,PLAIN_TEXT,UNKNOWN,HTML,JavaScript,SourceMap,TypeScript,YAML,XML,Images,CSS,Native,ASP" collectionTime="1452876640283" />
+      <project id="gimp" values="JSCS,CoffeeScript,JavaScript,Images,CSS,XML,C++,Perl,PLAIN_TEXT,PATCH,Handlebars/Mustache,SourceMap,UNKNOWN,ESLint,HTML,Jade,YAML,JSON" collectionTime="1456870509870" />
+      <project id="modules" values="Bash,CoffeeScript,JavaScript,JSON,YAML,IDL,Images,Handlebars/Mustache,SourceMap,Jade,PATCH,ESLint,HTML,C++,PLAIN_TEXT,XML,CSS,Perl,UNKNOWN" collectionTime="1461013813174" />
+      <project id="eslint-config-base" values="XML,JavaScript,JSON,PLAIN_TEXT,UNKNOWN" collectionTime="1454449654421" />
+      <project id="luncher" values="Jade,JavaScript,JSON,UNKNOWN,PLAIN_TEXT,XML,JSX Harmony" collectionTime="1456870502645" />
+      <project id="paimei" values="UNKNOWN,PLAIN_TEXT,XML,JSON,Images,YAML,JavaScript" collectionTime="1454604625312" />
+      <project id="tarantino" values="JSON,Bash,PLAIN_TEXT,JavaScript,YAML" collectionTime="1459884180920" />
+      <project id="firewall_proxy" values="XML,UNKNOWN,PLAIN_TEXT,YAML" collectionTime="1453304666087" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="eslint-config-react" values="Directory,Project,Project" collectionTime="1456175128094" />
+      <project id="kent" values="Directory,Project,Project" collectionTime="1459179359630" />
+      <project id="grafana" values="Project,Project" collectionTime="1452264019242" />
+      <project id="environmentFiles" values="Project,Project,Project,Project" collectionTime="1453326228303" />
+      <project id="media-mon-ui" values="Project,Project,Project" collectionTime="1453146743093" />
+      <project id="marsellus" values="Project,Project,Directory" collectionTime="1449866804455" />
+      <project id="prodEnvironmentFiles" values="Project,Project,Project" collectionTime="1457380799334" />
+      <project id="policy-entry" values="Directory,Project,File,Project,Project,Project" collectionTime="1459951505003" />
+      <project id="nonProdEnvironmentFiles" values="Project,Project" collectionTime="1457380808034" />
+      <project id="scripts" values="Project,Project,Project,Project" collectionTime="1453308978033" />
+      <project id="alan-attack" values="Project,Project" collectionTime="1450128468974" />
+      <project id="stu" values="Project,Project,Project,Directory,Project" collectionTime="1460489675288" />
+      <project id="buck" values="Directory,Project,Project,Project,Project" collectionTime="1461337459520" />
+      <project id="temp" values="Project,Project,Directory,File,Project,Project" collectionTime="1460405698799" />
+      <project id="yoengine" values="Project,Project,Project,Project" collectionTime="1453490803600" />
+      <project id="smithers" values="Project,File,File,Project,File,File,File,File,Project,File,Directory,Project,File,File,File,File,File,File" collectionTime="1461268174453" />
+      <project id="vega" values="Project,Directory,Project" collectionTime="1454522920984" />
+      <project id="adventofcode" values="Project,Project,Directory,Project,Project" collectionTime="1450203639674" />
+      <project id="generator-service" values="Directory,Project,Project" collectionTime="1450795885972" />
+      <project id="fund-view-ui" values="Directory,Project,Project" collectionTime="1452876640644" />
+      <project id="gimp" values="Project,Project,Project" collectionTime="1456870509871" />
+      <project id="modules" values="Project,Project,File,Project" collectionTime="1461013813175" />
+      <project id="eslint-config-base" values="Project,Project" collectionTime="1454449655048" />
+      <project id="luncher" values="Project,Project,Project,File,Project,Directory,File" collectionTime="1456870503089" />
+      <project id="paimei" values="Project,Project,Project,Project" collectionTime="1454604625314" />
+      <project id="tarantino" values="Project,Project,Project,Project" collectionTime="1459884180950" />
+      <project id="firewall_proxy" values="Project,Project,Project" collectionTime="1453304666433" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="kent" values="node_modules" collectionTime="1459179359630" />
+      <project id="marsellus" values="node_modules" collectionTime="1449866804455" />
+      <project id="eslint-config-react" values="node_modules" collectionTime="1456175128094" />
+      <project id="generator-service" values="node_modules" collectionTime="1450795885971" />
+      <project id="vega" values="node_modules" collectionTime="1454522920984" />
+      <project id="temp" values="node_modules" collectionTime="1460405698799" />
+      <project id="adventofcode" values="node_modules" collectionTime="1450203639674" />
+      <project id="smithers" values="node_modules" collectionTime="1461268174453" />
+      <project id="stu" values="node_modules" collectionTime="1460489675288" />
+      <project id="policy-entry" values="node_modules" collectionTime="1459951505003" />
+      <project id="buck" values="node_modules" collectionTime="1461337459520" />
+      <project id="luncher" values="node_modules" collectionTime="1456870503089" />
+      <project id="fund-view-ui" values="node_modules" collectionTime="1452876640644" />
+    </group>
+    <group name="Git">
+      <project id="eslint-config-react" values="config.ssh.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,data.remote.branches.count.5+" collectionTime="1456175128093" />
+      <project id="kent" values="config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.warn.about.crlf.enabled,data.remote.branches.count.5+,config.save.policy.STASH,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1459179358483" />
+      <project id="grafana" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,data.remote.branches.count.1,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.local.branches.count.1" collectionTime="1452264018867" />
+      <project id="firewall_proxy" values="config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.warn.about.detached.enabled,config.force.push.enabled,data.remote.branches.count.5+,config.update.type.BRANCH_DEFAULT" collectionTime="1453304666102" />
+      <project id="environmentFiles" values="config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1453326227960" />
+      <project id="media-mon-ui" values="config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,config.force.push.enabled,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1" collectionTime="1453146742725" />
+      <project id="prodEnvironmentFiles" values="config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.warn.about.crlf.enabled,data.remote.branches.count.1,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1457380798785" />
+      <project id="policy-entry" values="data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.ssh.enabled,data.remotes.in.project.2+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled" collectionTime="1459951504421" />
+      <project id="nonProdEnvironmentFiles" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.local.branches.count.1,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.remote.branches.count.1,data.remotes.in.project.1,config.ssh.enabled" collectionTime="1457380808034" />
+      <project id="scripts" values="config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1453308978031" />
+      <project id="alan-attack" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,data.local.branches.count.1,data.remote.branches.count.1,config.warn.about.detached.enabled" collectionTime="1450128468973" />
+      <project id="stu" values="config.update.type.BRANCH_DEFAULT,data.remote.branches.count.5+,config.warn.about.detached.enabled,config.save.policy.STASH,data.local.branches.count.2+,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1460489674889" />
+      <project id="buck" values="config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.15+,config.ssh.enabled,data.local.branches.count.5+,config.save.policy.STASH" collectionTime="1461337459013" />
+      <project id="temp" values="config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1460405698618" />
+      <project id="yoengine" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1453490803599" />
+      <project id="smithers" values="data.remote.branches.count.8+,config.force.push.enabled,config.ssh.enabled,data.local.branches.count.5+,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1461268172503" />
+      <project id="vega" values="config.update.type.BRANCH_DEFAULT,data.local.branches.count.5+,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.remote.branches.count.8+,data.remotes.in.project.1,config.push.update.all.roots.enabled" collectionTime="1454522920984" />
+      <project id="modules" values="data.remotes.in.project.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,data.local.branches.count.5+,data.remote.branches.count.15+,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1461013813175" />
+      <project id="fund-view-ui" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.push.autoupdate.disabled,data.remotes.in.project.1,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1452876640310" />
+      <project id="gimp" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,config.push.autoupdate.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.8+,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.remotes.in.project.1" collectionTime="1456870509871" />
+      <project id="generator-service" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,data.remote.branches.count.8+" collectionTime="1450795885536" />
+      <project id="eslint-config-base" values="config.save.policy.STASH,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,data.local.branches.count.5+,data.remote.branches.count.5+,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.detached.enabled" collectionTime="1454449654497" />
+      <project id="luncher" values="config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,data.local.branches.count.1,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1456870502672" />
+      <project id="paimei" values="data.remotes.in.project.1,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.local.branches.count.1,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1454604625313" />
+      <project id="tarantino" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,config.save.policy.STASH,config.warn.about.detached.enabled,data.remote.branches.count.8+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.remotes.in.project.1" collectionTime="1459884180928" />
+      <project id="adventofcode" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled" collectionTime="1450203639104" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Empty Project" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="43" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="3" />
+      <entry feature="NewDirectoryProjectAction.Empty Project" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="15" />
+      <entry feature="OpenInBrowser.Firefox" count="11" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.DEFAULT" count="23" />
+      <entry feature="execute.JavascriptDebugType.Run" count="3" />
+      <entry feature="execute.mocha-javascript-test-runner.Debug" count="4" />
+      <entry feature="execute.mocha-javascript-test-runner.Run" count="544" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Code_Style" count="3" />
+      <entry feature="ide.settings.Custom_Plugin_Repositories" count="2" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.JavaScript" count="10" />
+      <entry feature="ide.settings.Libraries" count="3" />
+      <entry feature="ide.settings.Live_Templates" count="5" />
+      <entry feature="ide.settings.Node.js_and_NPM" count="1" />
+      <entry feature="ide.settings.Other_File_Types" count="1" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ideaapp.started" count="102" />
+      <entry feature="terminal.linux" count="225" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="10" />
+      <entry feature="welcome.screen.null" count="3" />
+    </counts>
+  </component>
+</application>

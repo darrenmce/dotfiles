@@ -1,0 +1,17 @@
+<templateSet group="JSX">
+  <template name="recla" value="React.createClass({&#10;    displayName: '$NAME$',&#10;    render: function render$NAME$() {&#10;        return (&#10;            $END$&#10;        );&#10;    }&#10;});" description="React createClass with render" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="repr" value="PropTypes.$proptype$$END$" description="React PropTypes" toReformat="true" toShortenFQNames="true">
+    <variable name="proptype" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

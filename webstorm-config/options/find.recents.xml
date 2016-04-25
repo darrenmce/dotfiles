@@ -1,0 +1,89 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>rewardLui</find>
+      <find>default rewad</find>
+      <find>defaultRe</find>
+      <find>editREwa</find>
+      <find>default</find>
+      <find>repos</find>
+      <find>get_repos</find>
+      <find>deps</find>
+      <find>for</find>
+      <find>tt_check</find>
+      <find>module_exec</find>
+      <find>tt_deps</find>
+      <find>grep</find>
+      <find>docker-compose.y</find>
+      <find />
+      <find>key</find>
+      <find>connectionData</find>
+      <find>supp</find>
+      <find>connectionError</find>
+      <find>Select</find>
+      <find>material_sele</find>
+      <find>with reward</find>
+      <find>refs.</find>
+      <find>citi-no</find>
+      <find>window.Mater</find>
+      <find>.validateAddReward(</find>
+      <find>swiftDigitalLoadReloadable.reward</find>
+      <find>reward.</find>
+      <find>INVALID</find>
+      <find>select</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>log</replace>
+      <replace>className=</replace>
+      <replace />
+      <replace>'&lt;strong&gt;$0.&lt;/strong&gt;</replace>
+      <replace>'&lt;strong&gt;$1.&lt;/strong&gt;</replace>
+      <replace>&lt;strong&gt;$1.&lt;/strong&gt;</replace>
+      <replace>.have.$text</replace>
+      <replace>.have.$val</replace>
+      <replace>$class</replace>
+      <replace>faq</replace>
+      <replace>http://vega.test.360incentives.io:8080</replace>
+      <replace>/div&gt;</replace>
+      <replace>findDOMNode</replace>
+      <replace>findDOMNode(node)</replace>
+      <replace>ReactTestUtils</replace>
+      <replace>);;</replace>
+      <replace>;</replace>
+      <replace>from</replace>
+      <replace>import $0 from $1;</replace>
+      <replace>import {assert} from 'chai';</replace>
+      <replace>createUserMiddleware</replace>
+      <replace>import $1 from $2;</replace>
+      <replace>$1</replace>
+      <replace>&lt;audio id=&quot;$1&quot; src=&quot;clips/$1.mp3&quot;&gt;&lt;/audio&gt;</replace>
+      <replace>require('gimp-schemas')</replace>
+      <replace>'</replace>
+      <replace>className</replace>
+      <replace>.validateCommand(schemas.addRewards,</replace>
+      <replace>rewards</replace>
+      <replace>swiftDigitalLoadReloadable</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/projects/stu</dir>
+      <dir>$USER_HOME$/projects/kent/test/api</dir>
+      <dir>$USER_HOME$/projects/kent/api</dir>
+      <dir>$USER_HOME$/projects/stu/client/styles/less</dir>
+      <dir>$USER_HOME$/projects/stu/client/app/components</dir>
+      <dir>$USER_HOME$/projects/stu/client/app</dir>
+      <dir>$USER_HOME$/projects/stu/client/test/components/claims-table</dir>
+      <dir>$USER_HOME$/projects/stu/server/test</dir>
+      <dir>$USER_HOME$/projects/gimp</dir>
+      <dir>$USER_HOME$/projects/gimp/worker</dir>
+      <dir>$USER_HOME$/projects/gimp/api</dir>
+      <dir>$USER_HOME$/projects/stu/server</dir>
+      <dir>$USER_HOME$/projects/buck/api/lib</dir>
+      <dir>$USER_HOME$/projects/buck/api/routes</dir>
+      <dir>$USER_HOME$/projects/buck/api</dir>
+      <dir>$USER_HOME$/projects/stu/client/test</dir>
+      <dir>$USER_HOME$/projects/stu/client</dir>
+      <dir>$USER_HOME$/projects/buck/api/test</dir>
+      <dir>$USER_HOME$/projects/smithers/web/client</dir>
+    </dirStrings>
+  </component>
+</application>

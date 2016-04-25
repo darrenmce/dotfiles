@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="mod" value="module.exports = $EXPO$;" description="module.exports line" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

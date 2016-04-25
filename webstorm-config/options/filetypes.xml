@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="Dockerfile" type="Bash" />
+      <mapping ext="svg" type="HTML" />
+      <mapping pattern=".*rc" type="JSON" />
+      <mapping ext="node" type="JavaScript" />
+      <mapping pattern="data-table" type="PLAIN_TEXT" />
+      <mapping pattern="news" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="NODIR" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern=".jslint" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="trds" type="PLAIN_TEXT" />
+      <mapping ext="tf" type="PLAIN_TEXT" />
+      <mapping ext="tfvars" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <removed_mapping ext="svg" type="XML" />
+    </extensionMap>
+  </component>
+</application>

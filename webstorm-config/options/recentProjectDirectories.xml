@@ -1,0 +1,367 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/projects/buck" />
+        <option value="$USER_HOME$/projects/smithers" />
+        <option value="$USER_HOME$/projects/modules" />
+        <option value="$USER_HOME$/projects/stu" />
+        <option value="$USER_HOME$/projects/temp" />
+        <option value="$USER_HOME$/policy-entry" />
+        <option value="$USER_HOME$/projects/tarantino" />
+        <option value="$USER_HOME$/projects/kent" />
+        <option value="$USER_HOME$/projects/nonProdEnvironmentFiles" />
+        <option value="$USER_HOME$/projects/prodEnvironmentFiles" />
+        <option value="$USER_HOME$/projects/gimp" />
+        <option value="$USER_HOME$/projects/luncher" />
+        <option value="$USER_HOME$/projects/eslint-config-react" />
+        <option value="$USER_HOME$/projects/paimei" />
+        <option value="$USER_HOME$/projects/vega" />
+        <option value="/home" />
+        <option value="$USER_HOME$/projects/eslint-config-base" />
+        <option value="$USER_HOME$/temp/yoengine" />
+        <option value="/environmentFiles" />
+        <option value="$USER_HOME$/scripts" />
+        <option value="$USER_HOME$/projects/firewall_proxy" />
+        <option value="$USER_HOME$/projects/media-mon-ui" />
+        <option value="$USER_HOME$/projects/fund-view-ui" />
+        <option value="$USER_HOME$/projects/grafana" />
+        <option value="$USER_HOME$/projects/generator-service" />
+        <option value="$USER_HOME$" />
+        <option value="$USER_HOME$/opensource/adventofcode" />
+        <option value="$USER_HOME$/projects/alan-attack" />
+        <option value="$USER_HOME$/projects/marsellus" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/projects/buck" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/projects/buck" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="/environmentFiles">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453326162310" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/home">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454512934562" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1184" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450795164809" />
+              <option name="buildTimestamp" value="1449550800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/opensource/adventofcode">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1184" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450198506086" />
+              <option name="buildTimestamp" value="1449550800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/policy-entry">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.597" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1459945992051" />
+              <option name="buildTimestamp" value="1459310400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/alan-attack">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1184" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450127557688" />
+              <option name="buildTimestamp" value="1449550800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/buck">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.597" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461335227577" />
+              <option name="buildTimestamp" value="1459310400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/eslint-config-base">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454441623903" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/eslint-config-react">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456175123846" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/firewall_proxy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453304034397" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/fund-view-ui">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452874637521" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/generator-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1184" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450795177539" />
+              <option name="buildTimestamp" value="1449550800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/gimp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456870507567" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/grafana">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452195745503" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/kent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.258" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1459173552581" />
+              <option name="buildTimestamp" value="1458100800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/luncher">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456761459748" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/marsellus">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.382" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1449866803404" />
+              <option name="buildTimestamp" value="1447131600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/media-mon-ui">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453144038308" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/modules">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.597" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461013810871" />
+              <option name="buildTimestamp" value="1459310400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/nonProdEnvironmentFiles">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457380799335" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/paimei">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454604089357" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/prodEnvironmentFiles">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457380408695" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/smithers">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.597" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461266399230" />
+              <option name="buildTimestamp" value="1459310400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/stu">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.597" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460471662453" />
+              <option name="buildTimestamp" value="1459310400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/tarantino">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.597" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1459865133325" />
+              <option name="buildTimestamp" value="1459310400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/temp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.597" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460401882602" />
+              <option name="buildTimestamp" value="1459310400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/vega">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454516426952" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/scripts">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453306770210" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/temp/yoengine">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453482909988" />
+              <option name="buildTimestamp" value="1450846800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/projects" />
+  </component>
+</application>
