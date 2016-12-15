@@ -53,6 +53,8 @@ alias gs='git status'
 alias gd='git diff'
 alias gdc='git diff --cached'
 alias gl='git log'
+alias gcm='git checkout master'
+
 function gc() {
 	git commit -v -m "$*"
 }
@@ -77,11 +79,14 @@ function whichNode() {
 
 ## Environment Variables
 
-# Update the command prompt to be <user>:<current_directory>(git_branch) >
-# Note that the git branch is given a special color
-if [ "$OS" == "Windows_NT" ] ; then
-	PS1="\n\[$GREEN\]\u \[$YELLOW\]\w\[$EBLACK\]\$(__git_ps1) \[$NO_COLOR\]\n$ "
-else
-	PS1="\n\[$GREEN\]\u \[$CYAN\]\$(whichNode) \[$YELLOW\]\w\[$EBLACK\]\$(__git_ps1) \[$NO_COLOR\]\n$ "
-fi
+# Update the command prompt to be <user> <nvm version> <current_directory> (git_branch) ~
+
+case "$OSTYPE" in
+	darwin*)
+		PS1="\n\[$GREEN\]\u \[$CYAN\]\$(whichNode) \[$YELLOW\]\w\[$EWHITE\]\$(__git_ps1) \[$NO_COLOR\]\n$ "
+		;;
+	linux*)
+		PS1="\n\[$GREEN\]\u \[$CYAN\]\$(whichNode) \[$YELLOW\]\w\[$EBLACK\]\$(__git_ps1) \[$NO_COLOR\]\n$ "
+		;;
+esac
 
