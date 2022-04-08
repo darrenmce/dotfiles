@@ -46,7 +46,9 @@ BWHITE='\e[47m'
 ## Aliases
 
 alias nri='rm -rf node_modules/; npm i'
+alias nril='rm -rf node_modules/ package-lock.json; npm i'
 alias nrii='rm -rf node_modules/; npm i --ignore-scripts'
+alias tri='rm -rf .terraform/; terraform init'
 
 alias ga='git add'
 alias gs='git status'
@@ -54,6 +56,8 @@ alias gd='git diff'
 alias gdc='git diff --cached'
 alias gl='git log'
 alias gcm='git checkout master'
+
+alias jcurl='curl -H "Content-Type: application/json" -H "Accept: application/json"'
 
 function gc() {
 	git commit -v -m "$*"
@@ -71,10 +75,12 @@ if [ "`type -t __git_complete`" = "function" ]; then
 	__git_complete gl _git_log
 fi
 
-
 function whichNode() {
 	nvm current
 	return 0;
+}
+function whichTT() {
+	tt workspace current | awk '{print $1}'
 }
 
 ## Environment Variables
@@ -86,7 +92,26 @@ case "$OSTYPE" in
 		PS1="\n\[$GREEN\]\u \[$CYAN\]\$(whichNode) \[$YELLOW\]\w\[$EWHITE\]\$(__git_ps1) \[$NO_COLOR\]\n$ "
 		;;
 	linux*)
-		PS1="\n\[$GREEN\]\u \[$CYAN\]\$(whichNode) \[$YELLOW\]\w\[$EBLACK\]\$(__git_ps1) \[$NO_COLOR\]\n$ "
+		PS1="\n\[$GREEN\]\u \[$CYAN\]n:\$(whichNode) \[$NO_COLOR\]| \[$MAGENTA\]tt:\$(whichTT) \[$NO_COLOR\]| \[$YELLOW\]\w\[$EWHITE\]\$(__git_ps1) \[$NO_COLOR\]\n$ "
 		;;
 esac
 
+function ecr_login() {
+	PROFILE=${1:-default}
+	REGION=${AWS_DEFAULT_REGION:-us-east-1}
+	AWS_ACCOUNT_ID=$(aws --profile ${PROFILE} sts get-caller-identity --query 'Account' --output text)
+
+	aws --profile ${PROFILE} --region ${REGION} ecr get-login-password \
+	       	| docker login \
+	        --password-stdin \
+		--username AWS \
+	        "${AWS_ACCOUNT_ID}.dkr.ecr.${REGION}.amazonaws.com"
+}
+
+function vid2gif() {
+	INPUT=$1
+	OUTPUT=$(basename $INPUT)
+	ffmpeg -t 30 -i $INPUT -vf "fps=30,scale=1024:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 "${OUTPUT%%.*}.gif"
+}
+
+alias python="python3"
